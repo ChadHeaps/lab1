@@ -1,0 +1,15 @@
+.coming-soon{
+    text-align: center;
+    margin-top: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.coming-soon > img{
+    border-radius: 15px;
+    width: 150px;
+}
+
+body{
+    background-color:darkslategrey;
+}
